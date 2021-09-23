@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.6.9
+
+### Patch Changes
+
+- Updated dependencies
+  [[`eafb21e18`](https://github.com/chakra-ui/chakra-ui/commit/eafb21e1883cf40bfe44e143714d9a480a0cc7da)]:
+  - @chakra-ui/transition@1.3.5
+  - @chakra-ui/accordion@1.3.7
+  - @chakra-ui/menu@1.7.5
+  - @chakra-ui/modal@1.9.1
+  - @chakra-ui/toast@1.3.1
+
 ## 1.6.8
 
 ### Patch Changes
